@@ -1,1 +1,28 @@
-
+name,ring,quadrant,isNew,description
+Office365,Adopt,Tools,FALSE,<p>description of Office 365</p>
+Hexagon,Trial,Tools,TRUE,<p>description of Hexagon</p>
+Aveva,Assess,Tools,TRUE,<p>description of Aveva</p>
+Git,Assess,Tools,TRUE,<p>description of git</p>
+Gradle,Assess,Tools,TRUE,<p>description of Gradle</p>
+Universe,Hold,Tools,FALSE,<p>description of Universe</p>
+wIntegrate,Hold,Tools,FALSE,<p>description of wIntegrate</p>
+Docker,Adopt,Platforms,FALSE,<p>description of Docker</p>
+IIS,Assess,Platforms,TRUE,<p>description of IIS</p>
+Kestrel,Assess,Platforms,TRUE,<p>description of Kestrel</p>
+Application Servers,Hold,Platforms,FALSE,<p>description of Application Server</p>
+Bare Metal Servers,Hold,Platforms,TRUE,<p>description of Baremetalserver</p>
+Server-Side Rendering,Adopt,Techniques,FALSE,<p>description of Server Side Rendering</p>
+CQRS,Assess,Techniques,TRUE,<p>description of CQRS</p>
+Infrastructure as Code,Assess,Techniques,TRUE,<p>description of IaC</p>
+Micro frontends,Assess,Techniques,TRUE,<p>description of Microfrontends</p>
+Microservice Architecture,Assess,Techniques,TRUE,<p>description of Microservice Architecture</p>
+Single Page App (SPA),Assess,Techniques,TRUE,<p>description of SPA</p>
+Software Bill of Materials,Assess,Techniques,TRUE,<p>description of Software Bill of Materials</p>
+Shared State,Hold,Techniques,FALSE,<p>description of Shared State</p>
+AngularJS,Assess,Languages & frameworks,TRUE,<p>description of AngularJS</p>
+C# 6,Assess,Languages & frameworks,TRUE,<p>description of C#6</p>
+Java 17,Assess,Languages & frameworks,TRUE,<p>description of Java17</p>
+React.js,Assess,Languages & frameworks,TRUE,<p>description of React.js</p>
+Spring Boot,Assess,Languages & frameworks,TRUE,<p>A lot of work has gone into Spring Boot to reduce complexity and dependencies, which largely alleviates our previous reservations. If you live in a Spring ecosystem and are moving to microservices, Spring Boot is now the obvious choice.</p>
+Java 4,Hold,Languages & frameworks,FALSE,<p>description of Java 4</p>
+Java EE,Hold,Languages & frameworks,FALSE,<p>description of Java EE</p>
