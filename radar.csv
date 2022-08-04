@@ -4,6 +4,7 @@ Hexagon,Trial,Tools,TRUE,<p>description of Hexagon</p>
 Aveva,Assess,Tools,TRUE,<p>description of Aveva</p>
 Git,Assess,Tools,TRUE,<p>description of git</p>
 Gradle,Assess,Tools,TRUE,<p>description of Gradle</p>
+Subversion,Hold,Tools,FALSE,<p>description of SVN</p>
 Universe,Hold,Tools,FALSE,<p>description of Universe</p>
 wIntegrate,Hold,Tools,FALSE,<p>description of wIntegrate</p>
 Docker,Adopt,Platforms,FALSE,<p>description of Docker</p>
